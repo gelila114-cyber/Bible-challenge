@@ -5,3 +5,5 @@ features:
 . Scoring system
 . Reward 
 . Multiple level
+You all can play it using the website everywhere and everyday. To publish this I use an html code only so bring enjoyment with this.Thank you! 
+Gelila-M 
